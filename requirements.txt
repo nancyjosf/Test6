@@ -1,3 +1,4 @@
+pip==24.1.1
 absl-py==2.1.0
 altair==5.3.0
 asttokens==2.4.1
@@ -78,7 +79,7 @@ pydantic==1.8
 pydeck==0.9.1
 Pygments==2.18.0
 pyparsing==3.1.2
-pypiwin32==223
+
 pyproject-toml==0.0.10
 python-dateutil==2.9.0.post0
 pyttsx3==2.90
